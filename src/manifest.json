@@ -1,8 +1,8 @@
 {
 	"manifest_version": 1,
 	"id": "io.github.mathnote",
-	"app_min_version": "3.5",
-	"version": "2.0.2",
+	"app_min_version": "3.2",
+	"version": "2.0.3",
 	"name": "Math Calculator - MathNote",
 	"description": "CalcNote-style expense calculator. Write  Label  expression |  on any line and the result appears in the right column. Includes a live 75/25 split panel and a toolbar button to write results back into the note.",
 	"author": "Parth Gala",
@@ -21,6 +21,10 @@
 	],
 	"categories": [
 		"productivity"
+	],
+	"platforms": [
+		"desktop",
+		"mobile"
 	],
 	"screenshots": [
 		{
